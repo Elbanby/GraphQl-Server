@@ -12,7 +12,7 @@ Learning how to build a GraphQL server from scratch
 
     * GraphQL spec-compliant
     * Supports file upload
-    * Realtime functionality with GraphQL     subscriptions
+    * Realtime functionality with GraphQL subscriptions
     * Out-of-the-box support for GraphQL Playground
     * Extensible via Express middleware
     * Resolves custom directives in your GraphQL schema
